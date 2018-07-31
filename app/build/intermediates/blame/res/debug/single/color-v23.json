@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/dolodarenko/.android/build-cache/5b24644c92ba5294e07ee598ba29a47ff86024dc/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/dolodarenko/.android/build-cache/5b24644c92ba5294e07ee598ba29a47ff86024dc/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/dolodarenko/.android/build-cache/5b24644c92ba5294e07ee598ba29a47ff86024dc/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/dolodarenko/.android/build-cache/5b24644c92ba5294e07ee598ba29a47ff86024dc/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/dolodarenko/.android/build-cache/5b24644c92ba5294e07ee598ba29a47ff86024dc/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/dolodarenko/.android/build-cache/5b24644c92ba5294e07ee598ba29a47ff86024dc/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/dolodarenko/.android/build-cache/5b24644c92ba5294e07ee598ba29a47ff86024dc/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/dolodarenko/.android/build-cache/5b24644c92ba5294e07ee598ba29a47ff86024dc/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/home/dolodarenko/.android/build-cache/f93f95cd36fd8eecac6d75a902a778293f283571/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/dolodarenko/.android/build-cache/5b24644c92ba5294e07ee598ba29a47ff86024dc/output/res/color-v23/abc_btn_colored_text_material.xml"
+    }
+]

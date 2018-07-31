@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/dolodarenko/.android/build-cache/f93f95cd36fd8eecac6d75a902a778293f283571/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/dolodarenko/.android/build-cache/f93f95cd36fd8eecac6d75a902a778293f283571/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    }
+]
