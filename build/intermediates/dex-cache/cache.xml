@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/dolodarenko/.android/build-cache/25971f4f70d8b66303e62b7afddd94d4c13966b8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="874f1143c11f5d38533efe512bf913e3e847e7df">
+        <dex dex="/home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_14e7872b22ccbda3d0b5809df6ff36c48411607d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dolodarenko/.android/build-cache/1c01a9697e8cf0fa60d83bd6d2fedce7d0cc1e2c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="e2bbe48deed35056023eed2cdc0cc92e5c7d3617">
+        <dex dex="/home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_85d0a1cf98763374b73587b28500684a21cf2290/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dolodarenko/.android/build-cache/6b1619a35b2592be0fabd076c9d7f9b42150f76a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="71d380aeac037e63bab7bda2ba211777e16a2f42">
+        <dex dex="/home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dc3c37e3f4783bdeb3a9a5a37100b0f743065599/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dolodarenko/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.1.0/8007981f7d7540d89cd18471b8e5dcd2b4f99167/common-1.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="8007981f7d7540d89cd18471b8e5dcd2b4f99167">
+        <dex dex="/home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.1.0_11ec45228259b1a0131a1209201706b5bf100d6c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dolodarenko/.android/build-cache/ac394b5aa3bc7df6e9f2be4fc7b62036e0386660/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="3304d33470ff64cf83bce9189ff3648a42eb2aa7">
+        <dex dex="/home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cb16a5bd540f8218dc0b8d5192b8b8f4f46f1660/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="/home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_264292f560bcb8b8ef2180dcf3ab138ae77a9cac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dolodarenko/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.1.1/39ded76b5e1ce1c5b2688e1d25cdc20ecee32007/support-annotations-27.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="39ded76b5e1ce1c5b2688e1d25cdc20ecee32007">
+        <dex dex="/home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-27.1.1_a6747f3aa8adce6093a365e800a0787c4c73a8ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dolodarenko/.android/build-cache/d1f3b53ee0a8153bb7d78d5d5e4ff4497d369b4f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="2feadd535770271ca57b7b431f42151aa4af324a">
+        <dex dex="/home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e0a54b3f5a79ec95bbbd756b3405d26257b9f5d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dolodarenko/.android/build-cache/8d6372f10668a3fa87934ddd06acd2cd6c092957/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="8a9fd7c97f1d13f97f3b52f9d2e54cd857d5acf9">
+        <dex dex="/home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a316431e3c5bbdcf03b8cb415df455ed2a841083/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dolodarenko/.gradle/caches/modules-2/files-2.1/com.android.support.constraint/constraint-layout-solver/1.0.2/b9cd8fc6bd15cb915735d34535db30ece0c44603/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_2a5f85a2e5420442aeb724e5baf814ac7dbae1bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dolodarenko/.android/build-cache/47269583c831e002ff1a091a0af272f4b4cb2c79/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="23dcb4803d3103bde3f3f5db978a726338fe49ae">
+        <dex dex="/home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2e16213a998705e0c43affa0dfbba0c111f01dff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dolodarenko/.android/build-cache/ad7f3af4213d9e155332fc7a37765292bce7a816/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="c9a721adcd7dbae7a197b0ef81102336539f63ff">
+        <dex dex="/home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0f6b1510a101c4ecceb06a2281e056c816383558/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dolodarenko/.android/build-cache/c97e645755aa6addc94a9d17907440fe906a8d3e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6a91c4c7572be93a985a0eacda189ffa0556cdb1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dolodarenko/.android/build-cache/c0b11d813a5c85c4c10f1acb9f6de83c47007b4f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="1fd3ceac7f415975323d52c6c6057db409a907f6">
+        <dex dex="/home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2eef28b5189b9158387ff209928177d187974f03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dolodarenko/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.1.0/edf3f7bfb84a7521d0599efa3b0113a0ee90f85/common-1.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="0edf3f7bfb84a7521d0599efa3b0113a0ee90f85">
+        <dex dex="/home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.1.0_f68c746c56d483983aaddd459094439b2dc39046/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="b89b7497cd835d271170cba879fbb8db6eabe047">
+        <dex dex="/home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_da9b15453e673d44dba66ca2db256a26521493af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dolodarenko/.android/build-cache/f280bd385e26dcf65ec684d147690e062271c4ac/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="4d2b8ad415048e88b41ba4afcaafe36150e69b8c">
+        <dex dex="/home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c51ae51ccb3182f468d64e24a5a07f034116431d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dolodarenko/.android/build-cache/6cc1161d5ca5ad80dcc56f6e36d01834d8d180b1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="88c68e5ef7c5ace393d014c9ec5fe736b1ca55cf">
+        <dex dex="/home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bb632720119a62f326f050cf4541d5c2517b5287/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dolodarenko/.android/build-cache/f93f95cd36fd8eecac6d75a902a778293f283571/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="ae6d33f37143b08cd8c477c9e348d61ef7ed7eba">
+        <dex dex="/home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_155bd66cafdff065d498d815ea99925a11cc8d7e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dolodarenko/.android/build-cache/72c1a8439092906c5e82d761e9e67f64e31ffed1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="ec657bb192b20229696216bf233779b16bf75a54">
+        <dex dex="/home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_44adfa8f870340ad189f1265aec557aa52c2bdcb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dolodarenko/.android/build-cache/5b24644c92ba5294e07ee598ba29a47ff86024dc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="d968b9bd0011800e0d333d1571b8d34bcb8a0b6e">
+        <dex dex="/home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_76ae6fe58a42564740aaeb4e158e1f00c7fdad9b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dolodarenko/.android/build-cache/9be41f9b15f9bd3dbbd19d600e6e9f3bae017d18/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="7038c6d960d3fe26fd41bc509f256c9692d886ce">
+        <dex dex="/home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f8801e03c09e536440f03b3491a5e21c8f322bf6/classes.dex" />
+    </item>
+
+</items>

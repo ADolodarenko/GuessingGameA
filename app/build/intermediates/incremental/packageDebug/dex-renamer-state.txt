@@ -1,0 +1,7 @@
+#Wed Aug 01 22:54:51 MSK 2018
+base.0=/home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_da9b15453e673d44dba66ca2db256a26521493af
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_264292f560bcb8b8ef2180dcf3ab138ae77a9cac/classes.dex
+base.1=/home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_264292f560bcb8b8ef2180dcf3ab138ae77a9cac
+file.0=/home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_da9b15453e673d44dba66ca2db256a26521493af/classes.dex
