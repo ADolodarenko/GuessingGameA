@@ -1,73 +1,73 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/src/main/AndroidManifest.xml:2:1-24:12
+ADDED from D:\Work\Projects\Java\Android\GuessingGame\app\src\main\AndroidManifest.xml:2:1-24:12
 	package
-		ADDED from /home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/src/main/AndroidManifest.xml:3:5-43
-		INJECTED from /home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/src/main/AndroidManifest.xml
-		INJECTED from /home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/src/main/AndroidManifest.xml
+		ADDED from D:\Work\Projects\Java\Android\GuessingGame\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from D:\Work\Projects\Java\Android\GuessingGame\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Work\Projects\Java\Android\GuessingGame\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/src/main/AndroidManifest.xml
-		INJECTED from /home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/src/main/AndroidManifest.xml
+		INJECTED from D:\Work\Projects\Java\Android\GuessingGame\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Work\Projects\Java\Android\GuessingGame\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from D:\Work\Projects\Java\Android\GuessingGame\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from /home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/src/main/AndroidManifest.xml
-		INJECTED from /home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/src/main/AndroidManifest.xml
+		INJECTED from D:\Work\Projects\Java\Android\GuessingGame\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Work\Projects\Java\Android\GuessingGame\app\src\main\AndroidManifest.xml
 application
-ADDED from /home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/src/main/AndroidManifest.xml:5:5-22:19
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/dolodarenko/.android/build-cache/c97e645755aa6addc94a9d17907440fe906a8d3e/output/AndroidManifest.xml:9:5-20
+ADDED from D:\Work\Projects\Java\Android\GuessingGame\app\src\main\AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\dolodarenko\.android\build-cache\58cb08220809acdf4e0561003e17455895e03fce\output\AndroidManifest.xml:9:5-20
 	android:label
-		ADDED from /home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/src/main/AndroidManifest.xml:8:9-41
+		ADDED from D:\Work\Projects\Java\Android\GuessingGame\app\src\main\AndroidManifest.xml:8:9-41
 	android:supportsRtl
-		ADDED from /home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/src/main/AndroidManifest.xml:10:9-35
+		ADDED from D:\Work\Projects\Java\Android\GuessingGame\app\src\main\AndroidManifest.xml:10:9-35
 	android:roundIcon
-		ADDED from /home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/src/main/AndroidManifest.xml:9:9-54
+		ADDED from D:\Work\Projects\Java\Android\GuessingGame\app\src\main\AndroidManifest.xml:9:9-54
 	android:allowBackup
-		ADDED from /home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from D:\Work\Projects\Java\Android\GuessingGame\app\src\main\AndroidManifest.xml:6:9-35
 	android:icon
-		ADDED from /home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from D:\Work\Projects\Java\Android\GuessingGame\app\src\main\AndroidManifest.xml:7:9-43
 	android:theme
-		ADDED from /home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/src/main/AndroidManifest.xml:11:9-40
+		ADDED from D:\Work\Projects\Java\Android\GuessingGame\app\src\main\AndroidManifest.xml:11:9-40
 activity#org.dav.android.guessinggame.MainActivity
-ADDED from /home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/src/main/AndroidManifest.xml:12:9-21:20
+ADDED from D:\Work\Projects\Java\Android\GuessingGame\app\src\main\AndroidManifest.xml:12:9-21:20
 	android:label
-		ADDED from /home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/src/main/AndroidManifest.xml:14:13-45
+		ADDED from D:\Work\Projects\Java\Android\GuessingGame\app\src\main\AndroidManifest.xml:14:13-45
 	android:theme
-		ADDED from /home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/src/main/AndroidManifest.xml:15:13-56
+		ADDED from D:\Work\Projects\Java\Android\GuessingGame\app\src\main\AndroidManifest.xml:15:13-56
 	android:name
-		ADDED from /home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/src/main/AndroidManifest.xml:13:13-41
+		ADDED from D:\Work\Projects\Java\Android\GuessingGame\app\src\main\AndroidManifest.xml:13:13-41
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/src/main/AndroidManifest.xml:16:13-20:29
+ADDED from D:\Work\Projects\Java\Android\GuessingGame\app\src\main\AndroidManifest.xml:16:13-20:29
 action#android.intent.action.MAIN
-ADDED from /home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/src/main/AndroidManifest.xml:17:17-69
+ADDED from D:\Work\Projects\Java\Android\GuessingGame\app\src\main\AndroidManifest.xml:17:17-69
 	android:name
-		ADDED from /home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/src/main/AndroidManifest.xml:17:25-66
+		ADDED from D:\Work\Projects\Java\Android\GuessingGame\app\src\main\AndroidManifest.xml:17:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/src/main/AndroidManifest.xml:19:17-77
+ADDED from D:\Work\Projects\Java\Android\GuessingGame\app\src\main\AndroidManifest.xml:19:17-77
 	android:name
-		ADDED from /home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/src/main/AndroidManifest.xml:19:27-74
+		ADDED from D:\Work\Projects\Java\Android\GuessingGame\app\src\main\AndroidManifest.xml:19:27-74
 uses-sdk
-INJECTED from /home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/dolodarenko/.android/build-cache/c97e645755aa6addc94a9d17907440fe906a8d3e/output/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:design:27.1.1] /home/dolodarenko/.android/build-cache/f93f95cd36fd8eecac6d75a902a778293f283571/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.1.1] /home/dolodarenko/.android/build-cache/095632e69d7f4e49e14e0df90eb2cc03565aef10/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.1] /home/dolodarenko/.android/build-cache/6cc1161d5ca5ad80dcc56f6e36d01834d8d180b1/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.1] /home/dolodarenko/.android/build-cache/5b24644c92ba5294e07ee598ba29a47ff86024dc/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] /home/dolodarenko/.android/build-cache/ac394b5aa3bc7df6e9f2be4fc7b62036e0386660/output/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/dolodarenko/.android/build-cache/8d6372f10668a3fa87934ddd06acd2cd6c092957/output/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] /home/dolodarenko/.android/build-cache/6b1619a35b2592be0fabd076c9d7f9b42150f76a/output/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/dolodarenko/.android/build-cache/c0b11d813a5c85c4c10f1acb9f6de83c47007b4f/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/dolodarenko/.android/build-cache/d1f3b53ee0a8153bb7d78d5d5e4ff4497d369b4f/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/dolodarenko/.android/build-cache/ad7f3af4213d9e155332fc7a37765292bce7a816/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/dolodarenko/.android/build-cache/f280bd385e26dcf65ec684d147690e062271c4ac/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] /home/dolodarenko/.android/build-cache/25971f4f70d8b66303e62b7afddd94d4c13966b8/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] /home/dolodarenko/.android/build-cache/72c1a8439092906c5e82d761e9e67f64e31ffed1/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:27.1.1] /home/dolodarenko/.android/build-cache/9be41f9b15f9bd3dbbd19d600e6e9f3bae017d18/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] /home/dolodarenko/.android/build-cache/47269583c831e002ff1a091a0af272f4b4cb2c79/output/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/dolodarenko/.android/build-cache/1c01a9697e8cf0fa60d83bd6d2fedce7d0cc1e2c/output/AndroidManifest.xml:20:5-44
+INJECTED from D:\Work\Projects\Java\Android\GuessingGame\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\dolodarenko\.android\build-cache\58cb08220809acdf4e0561003e17455895e03fce\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:27.1.1] C:\Users\dolodarenko\.android\build-cache\9d8e6afe7e0863c69ffa2de29b3179d23c770fc5\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\dolodarenko\.android\build-cache\2b74babdeee9bf2af235f4c35006054c1133465c\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\dolodarenko\.android\build-cache\bda10f1b0065f3e46c3c4fc0ab83e6ac98297394\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\dolodarenko\.android\build-cache\b0c1323f4539efbf61f5972505e87646217d5dd0\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\dolodarenko\.android\build-cache\6ac2fc12fa3c8c2541756ab0de0da58900bb46bb\output\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\dolodarenko\.android\build-cache\bafa8a5b0c979d5c339151b0a34b4d4d7d0c18e9\output\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\dolodarenko\.android\build-cache\ef089bc46b8b1866d1f89af49295c3473749a3ab\output\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\dolodarenko\.android\build-cache\f95a07775b9fcd107c015f4517f5cceca016e2e5\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\dolodarenko\.android\build-cache\44fc801b792f625785080347fd6f685cc03532aa\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\dolodarenko\.android\build-cache\f5a3183c4b5c337c8cac2b3c8c41e2a15eefc33c\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\dolodarenko\.android\build-cache\8ba33a3403211a2483ad3002df370af5a4694b96\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\dolodarenko\.android\build-cache\b65da9ebd7c130472e94243ddbdef82bb497f93b\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\dolodarenko\.android\build-cache\048e6b7a35b9be5b601cd152e98042bdf4fcbc0d\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\dolodarenko\.android\build-cache\24c5cafd8fcfa9bb39f7bdc157fdb1f2076726e8\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\dolodarenko\.android\build-cache\36cb033c6f26e9a712d52a87fe0b431cd3e0999b\output\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\dolodarenko\.android\build-cache\78d5fd83212586ee36d07df38189638505ef7dc6\output\AndroidManifest.xml:20:5-44
 	android:targetSdkVersion
-		INJECTED from /home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/src/main/AndroidManifest.xml
-		INJECTED from /home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/src/main/AndroidManifest.xml
+		INJECTED from D:\Work\Projects\Java\Android\GuessingGame\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Work\Projects\Java\Android\GuessingGame\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/src/main/AndroidManifest.xml
-		INJECTED from /home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/src/main/AndroidManifest.xml
+		INJECTED from D:\Work\Projects\Java\Android\GuessingGame\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Work\Projects\Java\Android\GuessingGame\app\src\main\AndroidManifest.xml

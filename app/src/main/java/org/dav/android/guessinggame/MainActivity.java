@@ -20,13 +20,12 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
-    private static final int TRYING_LIMIT = 7;
-
     private EditText txtGuess;
     private Button btnGuess;
     private TextView lblOutput;
     private int theNumber;
     private int tries;
+    private int maxTries;
     private int range = 100;
     private TextView lblRange;
 
@@ -43,7 +42,7 @@ public class MainActivity extends AppCompatActivity {
 
             if (guess == theNumber)
             {
-                message = guess + " is correct. You win after " + (TRYING_LIMIT - tries) + " tries! Let's play again!";
+                message = guess + " is correct. You win after " + (maxTries - tries) + " tries! Let's play again!";
 
                 SharedPreferences preferences = PreferenceManager.getDefaultSharedPreferences(this);
                 int gamesWon = preferences.getInt("gamesWon", 0) + 1;
@@ -67,6 +66,12 @@ public class MainActivity extends AppCompatActivity {
                 {
                     message = message + " You lost. The number was " + theNumber + ". Let's play again!";
 
+                    SharedPreferences preferences = PreferenceManager.getDefaultSharedPreferences(this);
+                    int gamesLost = preferences.getInt("gamesLost", 0) + 1;
+                    SharedPreferences.Editor editor = preferences.edit();
+                    editor.putInt("gamesLost", gamesLost);
+                    editor.apply();
+
                     Toast.makeText(MainActivity.this, message, Toast.LENGTH_LONG).show();
                     newGame();
                 }
@@ -87,12 +92,13 @@ public class MainActivity extends AppCompatActivity {
     public void newGame()
     {
         theNumber = (int)(Math.random() * range + 1);
+        maxTries = (int)(Math.log(range)/Math.log(2) + 1);
+        tries = maxTries;
+
         lblRange.setText("Enter a number between 1 and " + range + ":");
         txtGuess.setText("" + range/2);
         txtGuess.requestFocus();
         txtGuess.selectAll();
-
-        tries = TRYING_LIMIT;
     }
 
     @Override
@@ -173,7 +179,7 @@ public class MainActivity extends AppCompatActivity {
                                 range = 100;
                                 break;
                             case 2:
-                                range = 100;
+                                range = 1000;
                                 break;
                         }
 
@@ -194,9 +200,22 @@ public class MainActivity extends AppCompatActivity {
             case R.id.action_gamestats:
                 SharedPreferences preferences = PreferenceManager.getDefaultSharedPreferences(this);
                 int gamesWon = preferences.getInt("gamesWon", 0);
+                int gamesLost = preferences.getInt("gamesLost", 0);
+                int gamesAll = gamesWon + gamesLost;
+                int percentWon = 0;
+
+                if (gamesAll > 0)
+                {
+                    double won = gamesWon;
+                    double all = gamesAll;
+
+                    percentWon = (int) (won / all * 100);
+                }
+
                 AlertDialog statDialog = new AlertDialog.Builder(MainActivity.this).create();
                 statDialog.setTitle("Guessing Game Stats");
-                statDialog.setMessage("You have won " + gamesWon + " games. Way to go!");
+                statDialog.setMessage("You have won " + gamesWon + " out of " + gamesAll + " games, " +
+                        percentWon + "%. Way to go!");
                 statDialog.setButton(AlertDialog.BUTTON_NEUTRAL, "OK",
                         new DialogInterface.OnClickListener()
                         {

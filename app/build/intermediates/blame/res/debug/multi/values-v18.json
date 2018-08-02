@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml",
+        "outputFile": "D:\\Work\\Projects\\Java\\Android\\GuessingGame\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v18\\values-v18.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 99
                 },
                 "from": {
-                    "file": "/home/dolodarenko/.android/build-cache/5b24644c92ba5294e07ee598ba29a47ff86024dc/output/res/values-v18/values-v18.xml",
+                    "file": "C:\\Users\\dolodarenko\\.android\\build-cache\\b0c1323f4539efbf61f5972505e87646217d5dd0\\output\\res\\values-v18\\values-v18.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

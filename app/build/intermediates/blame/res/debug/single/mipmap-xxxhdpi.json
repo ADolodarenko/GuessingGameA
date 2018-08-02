@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
-        "source": "/home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+        "merged": "D:\\Work\\Projects\\Java\\Android\\GuessingGame\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "D:\\Work\\Projects\\Java\\Android\\GuessingGame\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "/home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
-        "source": "/home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "D:\\Work\\Projects\\Java\\Android\\GuessingGame\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher_round.png",
+        "source": "D:\\Work\\Projects\\Java\\Android\\GuessingGame\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     }
 ]

@@ -1,18 +1,18 @@
 [
     {
-        "merged": "/home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
-        "source": "/home/dolodarenko/.android/build-cache/47269583c831e002ff1a091a0af272f4b4cb2c79/output/res/layout-v21/notification_template_custom_big.xml"
+        "merged": "D:\\Work\\Projects\\Java\\Android\\GuessingGame\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\dolodarenko\\.android\\build-cache\\36cb033c6f26e9a712d52a87fe0b431cd3e0999b\\output\\res\\layout-v21\\notification_template_custom_big.xml"
     },
     {
-        "merged": "/home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
-        "source": "/home/dolodarenko/.android/build-cache/47269583c831e002ff1a091a0af272f4b4cb2c79/output/res/layout-v21/notification_action.xml"
+        "merged": "D:\\Work\\Projects\\Java\\Android\\GuessingGame\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\dolodarenko\\.android\\build-cache\\36cb033c6f26e9a712d52a87fe0b431cd3e0999b\\output\\res\\layout-v21\\notification_template_icon_group.xml"
     },
     {
-        "merged": "/home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
-        "source": "/home/dolodarenko/.android/build-cache/47269583c831e002ff1a091a0af272f4b4cb2c79/output/res/layout-v21/notification_action_tombstone.xml"
+        "merged": "D:\\Work\\Projects\\Java\\Android\\GuessingGame\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\dolodarenko\\.android\\build-cache\\36cb033c6f26e9a712d52a87fe0b431cd3e0999b\\output\\res\\layout-v21\\notification_action_tombstone.xml"
     },
     {
-        "merged": "/home/dolodarenko/Work/Java/Projects/Android/GuessingGame/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
-        "source": "/home/dolodarenko/.android/build-cache/47269583c831e002ff1a091a0af272f4b4cb2c79/output/res/layout-v21/notification_template_icon_group.xml"
+        "merged": "D:\\Work\\Projects\\Java\\Android\\GuessingGame\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\dolodarenko\\.android\\build-cache\\36cb033c6f26e9a712d52a87fe0b431cd3e0999b\\output\\res\\layout-v21\\notification_action.xml"
     }
 ]
